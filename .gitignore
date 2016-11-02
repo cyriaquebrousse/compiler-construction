@@ -1,0 +1,20 @@
+# Obvious
+*.class
+*.log
+.history
+
+# Predefined
+/project/
+*.swp
+/target/
+
+# Eclipse
+.cache
+.classpath
+.project
+.settings/
+
+# Eclipse for Scala (specifics)
+.scala_dependencies
+.worksheet
+/bin
